@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635331881009",
+    "firebase_url": "https://patikonumda.firebaseio.com",
+    "project_id": "patikonumda",
+    "storage_bucket": "patikonumda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635331881009:android:6275bdeec0f3d379b48d10",
+        "android_client_info": {
+          "package_name": "com.example.patikonumda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635331881009-genpkdu366p0li8e2vc07oh57unrhkke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIGRcsVNQKCVDxxcLeBCw3yIz9jwpFih4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635331881009-genpkdu366p0li8e2vc07oh57unrhkke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

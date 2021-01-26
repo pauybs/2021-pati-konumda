@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="441d7168-d033-4355-9f1b-a2eb0de9a19c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_24]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="patikonumda" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="patikonumda" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="patikonumda" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="D:\patikonumda tez için raporlkar\patikonumda.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="ProjectId" id="1kiP4z66RkR0gVQ9mHsGczopIuX" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="patikonumda.app" />
+    <property name="BundleExportedModule" value="patikonumda.app" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Casper\AndroidStudioProjects\patikonumda\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="83f048304e393546" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1798730849">
+      <recent name="com.example.patikonumda.Fragment" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Casper\AndroidStudioProjects\patikonumda\app\src\main\res\layout" />
+      <recent name="C:\Users\Casper\AndroidStudioProjects\Instagram-Clone-master\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Casper\AndroidStudioProjects\patikonumda\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Casper\AndroidStudioProjects\patikonumda\app\src\main\res\drawable-xhdpi" />
+      <recent name="C:\Users\Casper\AndroidStudioProjects\patikonumda\app\src\main\res\drawable-xxxhdpi" />
+      <recent name="C:\Users\Casper\AndroidStudioProjects\patikonumda\app\src\main\res\mipmap-xxxhdpi" />
+      <recent name="C:\Users\Casper\AndroidStudioProjects\patikonumda\app" />
+    </key>
+    <key name="android.template.2094632093">
+      <recent name="com.example.patikonumda" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.patikonumda" />
+      <recent name="com.example.patikonumda.Fragment" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.patikonumda.Fragment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="patikonumda.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Instagram-Clone-master [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Instagram-Clone-master:app [androidDependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="androidDependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="patikonumda [androidDependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="androidDependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.patikonumda [androidDependencies]" />
+        <item itemvalue="Gradle.Instagram-Clone-master:app [androidDependencies]" />
+        <item itemvalue="Gradle.Instagram-Clone-master [signingReport]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="441d7168-d033-4355-9f1b-a2eb0de9a19c" name="Default Changelist" comment="" />
+      <created>1554312439986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554312439986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-54" y="357" key="#PSD" timestamp="1607554326718">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="-54" y="357" key="#PSD/62.0.1474.864@62.0.1474.864" timestamp="1607554326718" />
+    <state x="910" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610625509754">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606265824650" />
+    <state x="910" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.0.1472.864/1920.0.1280.680@64.0.1472.864" timestamp="1610625509754" />
+    <state x="531" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1609969540902">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="531" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/64.0.1472.864@64.0.1472.864" timestamp="1609969540902" />
+    <state x="559" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610625227590">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="559" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/64.0.1472.864/1920.0.1280.680@64.0.1472.864" timestamp="1610625227590" />
+    <state x="156" y="100" width="550" height="670" key="AVDManager" timestamp="1607554766303">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="156" y="100" width="550" height="670" key="AVDManager/62.0.1474.864@62.0.1474.864" timestamp="1607554766303" />
+    <state x="277" y="168" key="AndroidCreateResourceDirectoryDialog" timestamp="1609445002469">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="277" y="168" key="AndroidCreateResourceDirectoryDialog/62.0.1474.864/1920.0.1280.680@62.0.1474.864" timestamp="1609445002469" />
+    <state x="137" y="228" key="AndroidCreateResourceDirectoryDialog/62.0.1474.864@62.0.1474.864" timestamp="1607554188347" />
+    <state x="131" y="161" key="AndroidProcessChooserDialog" timestamp="1606239787342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="131" y="161" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1606239787342" />
+    <state x="401" y="327" key="FileChooserDialogImpl" timestamp="1610666293007">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1607095321430" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606247679880" />
+    <state x="2378" y="138" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1280.680@1920.0.1280.680" timestamp="1607960144282" />
+    <state x="589" y="175" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1280.680@62.0.1474.864" timestamp="1609594013033" />
+    <state x="589" y="175" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1609509891743" />
+    <state x="590" y="175" key="FileChooserDialogImpl/64.0.1472.864/1920.0.1280.680@64.0.1472.864" timestamp="1610556877254" />
+    <state x="401" y="327" key="FileChooserDialogImpl/64.0.1472.864@64.0.1472.864" timestamp="1610666293007" />
+    <state width="1427" height="364" key="GridCell.Tab.0.bottom" timestamp="1610487409743">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state width="572" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606406221275" />
+    <state width="1429" height="86" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1609509420184" />
+    <state width="1427" height="364" key="GridCell.Tab.0.bottom/64.0.1472.864@64.0.1472.864" timestamp="1610487409743" />
+    <state width="1427" height="364" key="GridCell.Tab.0.center" timestamp="1610487409743">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state width="572" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606406221275" />
+    <state width="1429" height="86" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1609509420184" />
+    <state width="1427" height="364" key="GridCell.Tab.0.center/64.0.1472.864@64.0.1472.864" timestamp="1610487409743" />
+    <state width="1427" height="364" key="GridCell.Tab.0.left" timestamp="1610487409702">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state width="572" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606406221275" />
+    <state width="1429" height="86" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1609509420184" />
+    <state width="1427" height="364" key="GridCell.Tab.0.left/64.0.1472.864@64.0.1472.864" timestamp="1610487409702" />
+    <state width="1427" height="364" key="GridCell.Tab.0.right" timestamp="1610487409743">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state width="572" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606406221275" />
+    <state width="1429" height="86" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1609509420184" />
+    <state width="1427" height="364" key="GridCell.Tab.0.right/64.0.1472.864@64.0.1472.864" timestamp="1610487409743" />
+    <state x="-169" y="97" key="SettingsEditor" timestamp="1609876119247">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606995317756" />
+    <state x="308" y="77" key="SettingsEditor/62.0.1474.864/1920.0.1280.680@62.0.1474.864" timestamp="1609444856895" />
+    <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1609506501318" />
+    <state x="-169" y="97" key="SettingsEditor/64.0.1472.864@64.0.1472.864" timestamp="1609876119247" />
+    <state x="497" y="192" key="chooseDestDirectoryDialog" timestamp="1609703289547">
+      <screen x="64" y="0" width="1472" height="864" />
+    </state>
+    <state x="200" y="193" key="chooseDestDirectoryDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1606946661787" />
+    <state x="497" y="192" key="chooseDestDirectoryDialog/64.0.1472.864/1920.0.1280.680@64.0.1472.864" timestamp="1609703289547" />
+    <state x="41" y="190" width="672" height="677" key="run.anything.popup" timestamp="1606240430556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="41" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606240430556" />
+  </component>
+</project>
