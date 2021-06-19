@@ -1,1 +1,2 @@
-# 2021-patikonumda SEYFULLAH DEMİR DENİZ CÖMERT BUSE ANNAÇ
+
+2021-patikonumda SEYFULLAH DEMİr Denİz CÖMERT BUSE ANNAÇ
